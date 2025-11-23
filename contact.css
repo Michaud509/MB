@@ -1,0 +1,33 @@
+main {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fa9908;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(248, 247, 247, 0.1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Titre principal */
+.titulo-grade {
+    color: rgb(255, 253, 253);
+    font-size: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Paragraphe spécial */
+#paragrafo-especial {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Image de contact */
+main img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
